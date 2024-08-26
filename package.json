@@ -1,0 +1,26 @@
+{
+  "name": "vazir-xui",
+  "version": "1.0.0",
+  "description": "vazirmatn ui font generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A1Gard/vazir-xui.git"
+  },
+  "keywords": [
+    "font",
+    "ui",
+    "vazir",
+    "persian",
+    "arabic"
+  ],
+  "author": "4xmen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/A1Gard/vazir-xui/issues"
+  },
+  "homepage": "https://github.com/A1Gard/vazir-xui#readme"
+}
